@@ -73,8 +73,8 @@ body {
   width: 36px;
   height: 36px;
   border-radius: 5px;
-
-  background: #5436DA;
+  background: #1b1a1a;
+  /* background: #5436DA; */
 
   display: flex;
   justify-content: center;
@@ -161,11 +161,17 @@ form img {
 /* Header styles */
 .welcome-text {
   /* background-color: rgb(60, 59, 59); */
-  color: rgb(62, 165, 234);
+  /* color: rgb(62, 165, 234); */
+  color: rgb(210, 210, 210);
   margin-top: 5px;
   margin-bottom: 5px;
   padding: 10px;
   display: flex;
   justify-content: center;
   font-family: 'Titan One', cursive;
+}
+
+.name-text {
+  color: rgb(62, 165, 234);
+
 }
